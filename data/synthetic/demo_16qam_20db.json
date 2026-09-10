@@ -1,0 +1,13 @@
+{
+  "modulation": "16QAM",
+  "fec": "Reed-Solomon",
+  "interleaving": "8x32 Block",
+  "sampling_rate": 1000000.0,
+  "snr_db": 20.0,
+  "frequency_offset_hz": 500.0,
+  "phase_offset_rad": 0.2,
+  "sample_count": 16384,
+  "duration_seconds": 0.016384,
+  "iq_file": "/Users/rohith/Desktop/TestSIH/backend/app/../../data/synthetic/demo_16qam_20db.iq",
+  "wav_file": "/Users/rohith/Desktop/TestSIH/backend/app/../../data/synthetic/demo_16qam_20db.wav"
+}
